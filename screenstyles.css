@@ -1,11 +1,8 @@
-/* Style sheet created by: Fiona Kalcevic 04/06/2022 */
 
-/* Style for body specifies a background color */
 body {
 	background-color: #FFFFFF;
 }
 
-/* Style to create a fluid image */
 img {
 	max-width: 100%
 }
@@ -51,7 +48,7 @@ nav ul {
 
 /* Style for nav li specifies the background color, rounded corners, removes bullet style, and applies margins and padding for list items within the navigation */
 nav li {
-	background-color: #E18470;
+	background-color: #fafafd2;
 	list-style-type: none;
 	margin: 0.4em;
 	padding: 0.5em;
@@ -196,7 +193,7 @@ footer {
 	
 	/* Style specifies a gradient for the body element */
 	body {
-		background-color: #FFFFFF; /* All others */
+		background-color: #F0E68C; /* All others */
 	}
 	
 	/* Style sheet created by: Fiona Kalcevic 4/19/2022 */
